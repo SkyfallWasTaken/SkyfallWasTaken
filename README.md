@@ -5,7 +5,7 @@
 </p>
 
 ### What I'm working on
-- [Vortex](https://github.com/vortex-pkg/vortex), a faster package manager for Node.js
+- [Custard](https://github.com/custard-pkg/custard), a faster package manager for Node.js
 - [Choco](https://github.com/SkyfallWasTaken/choco), a serverless utility bot for Discord.
 
 <div>

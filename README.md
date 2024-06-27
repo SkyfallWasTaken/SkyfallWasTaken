@@ -5,7 +5,8 @@
 </p>
 
 ### What I'm working on
-- [Avion](https://github.com/SkyfallWasTaken/avion-bot), a economy and general purpose bot built with Rust.
+- [#arcade-monitor](https://github.com/SkyfallWasTaken/arcade-monitor), a monitor for the Hack Club Arcade Shop
+- [vortex.email](https://github.com/SkyfallWasTaken/vortex.email), a temporary email service written in Rust
 
 ---
 

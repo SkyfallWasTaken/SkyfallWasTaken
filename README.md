@@ -1,15 +1,14 @@
-<h3 align="center">👋 Hi there! I'm Skyfall!</h3>
+<h3 align="center">👋 hi there, i'm mahad</h3>
 <p align="center">
-  <a href="https://skyfall.dev">Website</a> •
-  <a href="https://discord.com/users/571393955367878656">Discord</a> •
-  <a href="https://twitter.com/skyfall_ggs">Twitter/X</a> •
-  <a href="https://bsky.app/profile/skyfall.dev">Bluesky</a>
+  <a href="https://skyfall.dev">website</a> •
+  <a href="https://discord.com/users/571393955367878656">discord</a> •
+  <a href="https://twitter.com/skyfall_ggs">x/twitter</a>
 </p>
 
-### What I'm working on
-- [Snowvault](https://github.com/SkyfallWasTaken/snowvault), a password manager built with Iced and Rust
-- [#high-seas-monitor](https://github.com/SkyfallWasTaken/high-seas-monitor), a stock tracker for Hack Club's [High Seas](https://highseas.hackclub.com)
+### what I'm currently working on
+
 - [vortex.email](https://github.com/SkyfallWasTaken/vortex.email), a temporary email service, with more than 10 (sub)domains and no ads
+- [quackatime (currently private)](https://github.com/quackatime/quackatime), a self-hostable WakaTime clone 
 
 ---
 

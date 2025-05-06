@@ -8,7 +8,7 @@
 ### what I'm currently working on
 
 - [vortex.email](https://github.com/SkyfallWasTaken/vortex.email), a temporary email service, with more than 10 (sub)domains and no ads
-- [quackatime (currently private)](https://github.com/quackatime/quackatime), a self-hostable WakaTime clone 
+- [ottertime (wip)](https://github.com/SkyfallWasTaken/ottertime), a self-hostable WakaTime clone 
 
 ---
 
